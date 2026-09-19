@@ -15,6 +15,7 @@ dependencies = [
 
 [project.urls]
 Repository = "https://github.com/Anaxer-v2/anaxer-sdk-python"
+Repository = "https://github.com/Anaxer-v2/anaxer-sdk-python"
 Homepage = "https://anaxer.com"
 Documentation = "https://anaxer.com/docs/sdks"
 Changelog = "https://anaxer.com/docs/changelog"
